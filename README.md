@@ -1,5 +1,6 @@
 Trabalho 3 da disciplina de Computação Gráfica.
-As três animações são as seguitnes:
+
+As três animações são as seguintes:
 
   -Animação 1: Robô acenando.
   
