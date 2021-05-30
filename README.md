@@ -10,4 +10,4 @@ As três animações são as seguintes:
 
 Para alternar entre as três animações é necessário alterar o arquivo main.js,
 mais precismente a função "onDocumentKeyDown" e trocar a letra i em 
-"animation = new animations[i]();" pelo número da animação desejada.
+"animation = new animations\[i\]();" pelo número da animação desejada.
